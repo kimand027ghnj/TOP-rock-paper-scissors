@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(213, 180, 103);
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    margin: 20px;
+    padding: 10px;
+}
+
+button {
+    background-color: rgb(224, 232, 216);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#gn0 {
+    font-size: 40px;
+}
